@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jerball/ba-scraper/issues"
   },
-  "homepage": "https://github.com/jerball/ba-scraper"
+  "homepage": "https://github.com/jerball/ba-scraper",
+  "dependencies": {
+    "x-ray": "^1.0.2"
+  }
 }
