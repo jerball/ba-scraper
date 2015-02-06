@@ -1,0 +1,19 @@
+{
+  "name": "ba_api",
+  "version": "0.1.0",
+  "description": "Scrapes the BA website and creates an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerball/ba-scraper"
+  },
+  "author": "Jeremy Ball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerball/ba-scraper/issues"
+  },
+  "homepage": "https://github.com/jerball/ba-scraper"
+}
